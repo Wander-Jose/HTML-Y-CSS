@@ -1,0 +1,53 @@
+.cuadro1 {
+    position: absolute;
+    background-color: rgb(84, 84, 255);
+    padding: 20px;
+    width: 1300px;
+    height: 50px;
+}
+.cuadro2 {
+    position: absolute;
+    background-color: rgb(138, 138, 138);
+    padding: 0px;
+    width: 35%;
+    height: 104%;
+    top: 115px;
+}
+.cuadro3 {
+    position: absolute;
+    background-color: rgb(255, 0, 0);
+    padding: 20px;
+    width: 1300px;
+    height: 280px;
+    top: 755px;
+}
+.cuadro4 {
+    position: relative;
+    border: 5px solid blue; /* Borde azul */
+    background-color: rgb(9, 255, 243); /* Fondo verde en el centro */
+    padding: 20px;           /* Espaciado interno */
+    width: 790px;            /* Ancho del cuadro */
+    height: 238px;           /* Altura del cuadro */
+    top: 107px;
+    left: 490px;
+    border-width: 25px 10px 10px;
+}
+.cuadro5 {
+    position: relative;
+    border: 5px solid blue;
+    background-color: rgb(9, 255, 243);
+    padding: 20px;
+    width: 790px;
+    height: 238px;
+    top: 105px;
+    left: 490px;
+    border-width: 10px 10px 25px;
+}
+.cuadro6 {
+    position: absolute;
+    background-color: rgb(84, 84, 255);
+    padding: 20px;
+    width: 1300px;
+    height: 20px;
+    top: 1095px;
+}
